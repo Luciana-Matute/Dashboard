@@ -1,0 +1,25 @@
+.form-horizontal .page-header{margin: 0px;}
+
+.facebook:hover{
+	background: #0F3164;
+	color:white;
+}
+
+.twitter:hover{
+	color: white;
+	background: #1198DE;
+}
+
+.ingresar:hover{
+	color: white;
+	background: #114B69;
+}
+
+.pt-8{padding-top: 8%;}
+
+.pd-3{padding: 3%}
+
+.text-gray{color: grey;}
+
+.pr-2{padding-right: 2%;}
+
